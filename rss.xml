@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[jonathannapier]]></title>
+        <description><![CDATA[jonathannapier]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Dec 2015 16:14:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Water bears turn into glass when they dry out]]></title>
+            <description><![CDATA[<article><h1>Water bears turn into glass when they dry out</h1><p>Tardigrades - known affectionately as water bears or moss piglets - have pretty much got it all. These microscopic invertebrates are capable of surviving the most extreme conditions you could dream up, including prolonged desiccation and near-100 percent water loss, freezing and boiling temperatures, intense ionising radiation, and the vacuum of outer space.</p><img src="http://www.sciencealert.com/images/articles/processed/water-bear-glass_1024.png"></article>]]></description>
+            <link>http://www.sciencealert.com/water-bears-turn-into-glass-when-they-dry-out</link>
+            <guid isPermaLink="false">73c5ce9f-64b9-4836-9a17-b732ef3f1b42</guid>
+            <pubDate>Sat, 26 Dec 2015 16:14:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
