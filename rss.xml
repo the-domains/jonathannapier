@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[jonathannapier]]></title>
         <description><![CDATA[jonathannapier]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jonathannapier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 16:14:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Jan 2016 14:40:53 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jonathannapier/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ancient Egyptian papyrus contains earliest record of 'demon star']]></title>
+            <description><![CDATA[<article><h1>Ancient Egyptian papyrus contains earliest record of 'demon star'</h1><p>Scientists studying a 3,200 year-old papyrus document from ancient Egypt think they've found the earliest record of the variable star Algol - a three-star system that's some 92.25 light-years away from Earth. It appears that not only could the Egyptians see the star without the aid of a telescope, its cycle influenced their religious calendars.</p><img src="http://www.sciencealert.com/images/articles/processed/cairo-calendar_1024.jpg"></article>]]></description>
+            <link>http://www.sciencealert.com/ancient-egyptian-papyrus-contains-earliest-record-of-incredible-star</link>
+            <guid isPermaLink="false">80a9782c-ceed-4fa2-b396-8ed22eb07a98</guid>
+            <pubDate>Fri, 01 Jan 2016 14:40:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Water bears turn into glass when they dry out]]></title>
-            <description><![CDATA[<article><h1>Water bears turn into glass when they dry out</h1><p>Tardigrades - known affectionately as water bears or moss piglets - have pretty much got it all. These microscopic invertebrates are capable of surviving the most extreme conditions you could dream up, including prolonged desiccation and near-100 percent water loss, freezing and boiling temperatures, intense ionising radiation, and the vacuum of outer space.</p><img src="http://www.sciencealert.com/images/articles/processed/water-bear-glass_1024.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Water bears turn into glass when they dry out</h1><p>Tardigrades - known affectionately as water bears or moss piglets - have pretty much got it all. These microscopic invertebrates are capable of surviving the most extreme conditions you could dream up, including prolonged desiccation and near-100 percent water loss, freezing and boiling temperatures, intense ionising radiation, and the vacuum of outer space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ce7fd0cdbb3872437db9b32ed0686c3117244449.png"></article>]]></description>
             <link>http://www.sciencealert.com/water-bears-turn-into-glass-when-they-dry-out</link>
             <guid isPermaLink="false">73c5ce9f-64b9-4836-9a17-b732ef3f1b42</guid>
             <pubDate>Sat, 26 Dec 2015 16:14:37 GMT</pubDate>
